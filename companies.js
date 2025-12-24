@@ -3,8 +3,8 @@
     name: "Bank Central Asia",
     address: "Jakarta Pusat",
     value: 5000,
-    employees: 100,
-    products: ["bank", "loan", "credit card"],
+    employees: 80,
+    products: ["digital banking", "personal loan", "debit card"],
     isActive: true,
   },
 ];
