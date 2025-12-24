@@ -4,7 +4,7 @@
     address: "Jakarta Pusat",
     value: 5000,
     employees: 80,
-    products: ["digital banking", "personal loan", "debit card"],
-    isActive: true,
+    products: ["banking", "mortgage", "credit card"],
+    isActive: false,
   },
 ];
