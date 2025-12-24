@@ -5,6 +5,6 @@
     value: 5000,
     employees: 80,
     products: ["banking", "mortgage", "credit card"],
-    isActive: "pending",
+    isActive: false,
   },
 ];
